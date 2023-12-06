@@ -1,0 +1,64 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "O que você faz hoje pode melhorar todos os seus amanhãs.",
+      "autoria": "Ralph Marston",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "O sucesso é a soma de pequenos esforços repetidos dia após dia.",
+      "autoria": "Robert Collier",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 3,
+      "conteudo": "A grandeza não surge da complacência, mas sim da resiliência. Cada desafio é uma chance de crescimento, uma pedra preciosa escondida na lama. A consistência nos esforços diários é a argamassa que ergue monumentos de sucesso. Assim como o sol persiste em brilhar, devemos persistir em nossos objetivos, iluminando o caminho com determinação e coragem.",
+      "autoria": "Lucas Mendes",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 4,
+      "conteudo": "A grandiosidade da jornada reside na transformação diária. Cada escolha, por menor que seja, esculpe o destino. O sucesso não é uma linha reta, mas sim um mosaico de experiências e aprendizados. Ao abraçar a evolução constante, moldamos não apenas nosso amanhã, mas o legado que deixaremos para as gerações futuras. A chave está em reconhecer que, no processo, encontramos a verdadeira essência da vitória.",
+      "autoria": "Juliana Lima",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 5,
+      "conteudo": "Na jornada da vida, a paciência é a bússola que nos guia. Cada passo, por menor que seja, contribui para o mapa do sucesso. Ao cultivarmos a persistência, construímos estradas sólidas rumo às realizações. A fé no processo é o combustível que nos impulsiona, transformando desafios em oportunidades. Lembre-se, o amanhã é moldado pelas escolhas de hoje.",
+      "autoria": "Amanda Oliveira",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 6,
+      "conteudo": "A persistência é o caminho do êxito.",
+      "autoria": "Charles Chaplin",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 7,
+      "conteudo": "O rio da realização flui com as águas da disciplina. Pequenas correntezas de comprometimento se unem para formar mares de conquistas. Acredite, cada atitude positiva é uma gota que contribui para o oceano do triunfo. Quem navega com ética e dedicação encontra portos de êxito ao longo da jornada. Que suas escolhas sejam como barcos sólidos, navegando com propósito e determinação.",
+      "autoria": "Carolina Santos",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 8,
+      "conteudo": "A confiança é a moeda de troca nas relações humanas. Como uma semente, precisa ser cultivada com sinceridade e regada com atitudes consistentes. Aqueles que depositam confiança nos outros colhem laços sólidos e duradouros. Lembre-se, a verdadeira força está na capacidade de confiar e inspirar confiança, criando vínculos que resistem ao teste do tempo.",
+      "autoria": "André Oliveira",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 9,
+      "conteudo": "Aquele que não tem confiança nos outros, não lhes pode ganhar a confiança.",
+      "autoria": "Lao-Tsé",
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "Esse bicho tá desconsiderando negô. Negô é cabeça de gelô",
+      "autoria": "Senhor Dj Cleiton Rasta",
+      "modelo": "modelo2",
+      "id": 10
+    }
+  ]
+}
